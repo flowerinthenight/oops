@@ -1,5 +1,7 @@
 **This repository has been moved to https://github.com/alphauslabs/oops.**
 
+---
+
 ![main](https://github.com/flowerinthenight/oops/workflows/main/badge.svg)
 
 ## Overview
